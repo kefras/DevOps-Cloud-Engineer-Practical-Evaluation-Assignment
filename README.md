@@ -1,7 +1,9 @@
 # DevOps / Cloud Engineer Practical Evaluation Assignment
 
-**Candidate:** Kefas Etiku Francis
+**Candidate:**   Kefas Etiku Francis
+
 **Project Goal:** End-to-end deployment, automation, and monitoring of a luxury restaurant application.
+
 
 ## 🚀 Project Overview
 
