@@ -9,7 +9,7 @@ This repository demonstrates a full-stack DevOps lifecycle, moving from static A
 
 ### 🔗 Live Deployment Links
 
-  * **Phase 1 (Static):** [d3mhq8u8ee8nn1.cloudfront.net](https://www.google.com/search?q=http://d3mhq8u8ee8nn1.cloudfront.net)
+  * **Phase 1 (Static):** http://d3mhq8u8ee8nn1.cloudfront.net
   * **Phase 2 & 3 (Dockerized):** [http://3.16.149.24](http://3.16.149.24) 
 
 -----
