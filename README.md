@@ -9,11 +9,6 @@
 
 This repository demonstrates a full-stack DevOps lifecycle, moving from static AWS hosting to a containerized Linux environment with automated deployment scripts.
 
-### 🔗 Live Deployment Links
-
-  * **Phase 1 (Static):** http://d3mhq8u8ee8nn1.cloudfront.net
-  * **Phase 2 & 3 (Dockerized):** [http://3.16.149.24](http://3.16.149.24) 
-
 -----
 
 ## 📂 Phase 1: AWS Static Website Deployment (20 Marks)
