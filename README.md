@@ -4,6 +4,8 @@
 
 **Project Goal:** End-to-end deployment, automation, and monitoring of a luxury restaurant application.
 
+![Portfolio Preview](screenshot_20260404090907.png)
+
 
 ## 🚀 Project Overview
 
